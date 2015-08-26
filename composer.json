@@ -1,0 +1,14 @@
+{
+    "name": "md-adil/genius",
+    "description": "PHP mini framework",
+    "authors": [
+        {
+            "name": "Md Adil",
+            "email": "md-adil@live.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+    	"phpunit/phpunit": "dev-master"
+    }
+}
