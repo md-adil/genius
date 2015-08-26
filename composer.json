@@ -8,7 +8,10 @@
         }
     ],
     "require": {},
-    "require-dev": {
-    	"phpunit/phpunit": "dev-master"
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Genius\\": "src/"
+        }
     }
 }
